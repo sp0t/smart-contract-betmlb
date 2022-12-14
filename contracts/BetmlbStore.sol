@@ -2,7 +2,7 @@
 pragma solidity >=0.4.22 <0.9.0;
 
 contract BetmlbStore {
-  uint256 public decimals = 2;
+  uint256 public decimals = 3;
 
   struct Betstore{
     string betdate;
